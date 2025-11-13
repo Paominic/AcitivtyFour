@@ -13,6 +13,7 @@ sap.ui.define([
               //  var oTextBundle = this.getOwnerComponent().getModel("i18n").getResourceBundle();
               //  var sMsg = oTextBundle.getText("addButtonMsg");
               //  this.fnDisplayMsg(sMsg);
+              
               // Instantiate the fragment
  
                 // create dialog lazily
